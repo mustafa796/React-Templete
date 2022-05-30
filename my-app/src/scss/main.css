@@ -1,0 +1,54 @@
+.nav1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  background-color: #589167;
+  text-decoration: none;
+}
+
+.nav1 a {
+  color: white;
+  text-decoration: none;
+}
+
+.section1 {
+  background-image: url("https://preview.colorlib.com/theme/counselor/images/xbg_1.jpg.pagespeed.ic.-plJLknebq.webp");
+  background-position: 50% 0%;
+  background-size: cover;
+  height: 750px;
+  width: auto;
+}
+
+.section1 h1 {
+  font-size: 60px;
+  color: #000000;
+  line-height: 1.1;
+  font-weight: 500;
+}
+
+.section1 p {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+.section1 .sec1-btn1 {
+  background: #589167 !important;
+  border: 1px solid #589167 !important;
+  color: #fff !important;
+}
+
+.section1 .sec1-btn2 {
+  background: #fff !important;
+  border: 1px solid #fff !important;
+  color: #000000 !important;
+}
+
+.sec2-container {
+  max-width: 1130px;
+  background-color: #589167;
+  color: #fff;
+  padding: 33px;
+}
+/*# sourceMappingURL=main.css.map */
