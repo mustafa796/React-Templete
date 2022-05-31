@@ -9,7 +9,7 @@ export default function Section9() {
 <div className="row justify-content-center mb-5">
 <div className="col-md-7 heading-section text-center ftco-animate fadeInUp ftco-animated">
 <span className="subheading">Blog</span>
-<h2>Recent Blog</h2>
+<h2>Recent A Blog</h2>
 </div>
 </div>
 <div className="row d-flex">
